@@ -1,11 +1,11 @@
 if (!settings.survival) {
     settings.survival = {
-        "wall": 999,
-        "dirt": 999,
-        "sapling": 1,
-        "seeds": 5,
-        "ice": 25,
-        "cloner": 1,
+        "wall": 9999999999999999999,
+        "dirt": 9999999999999999999,
+        "sapling": 19999999999999999,
+        "seeds": 59999999999999999,
+        "ice": 259999999999999999,
+        "cloner": 199999999999999999,
     }
 }
 settings.survival.cloner = 1;
